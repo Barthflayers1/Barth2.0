@@ -1,0 +1,20 @@
+h1{
+    color: black;
+}
+
+.accueil{
+    font-size: 22px;
+    color:black;
+}
+
+.imag_pizza{
+
+    float: right;
+    background-color: gray;
+}
+
+.acc{
+    float: left;
+    background-color: chartreuse;
+}
+
